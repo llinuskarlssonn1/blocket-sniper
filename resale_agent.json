@@ -1,0 +1,16 @@
+{
+  "candidates_path": "data/candidates.json",
+  "reports_dir": "data/reviews",
+  "model": null,
+  "max_candidates": 20,
+  "minimum_net_profit_sek": 500,
+  "minimum_roi_percent": 20,
+  "transport_and_handling_sek": 150,
+  "selling_fee_percent": 0,
+  "risk_reserve_percent": 10,
+  "minimum_comparables": 3,
+  "sold_comparable_max_age_days": 90,
+  "asking_price_discount_percent": 15,
+  "market": "Sweden, prioritizing Gothenburg",
+  "report_language": "English"
+}

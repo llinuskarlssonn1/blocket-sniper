@@ -1,0 +1,4291 @@
+{
+  "source": "https://www.blocket.se/recommerce/forsale/search?category=0.93",
+  "retrieved": "2026-10-06",
+  "count": 476,
+  "product_categories": {
+    "2.91.3108.362": {
+      "name": "Butiksbelysning",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Butik och detaljhandel"
+      ],
+      "hits": 28
+    },
+    "2.91.3108.359": {
+      "name": "Butiksinredning",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Butik och detaljhandel"
+      ],
+      "hits": 236
+    },
+    "2.91.3108.358": {
+      "name": "Kortterminal",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Butik och detaljhandel"
+      ],
+      "hits": 35
+    },
+    "2.91.3108.361": {
+      "name": "Lagerutrustning",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Butik och detaljhandel"
+      ],
+      "hits": 136
+    },
+    "2.91.3108.360": {
+      "name": "Säkerhet och övervakning",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Butik och detaljhandel"
+      ],
+      "hits": 74
+    },
+    "2.91.3108.363": {
+      "name": "Varupartier och konkurslager",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Butik och detaljhandel"
+      ],
+      "hits": 140
+    },
+    "2.91.3108.364": {
+      "name": "Övrig butiksutrustning",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Butik och detaljhandel"
+      ],
+      "hits": 65
+    },
+    "2.91.3111.366": {
+      "name": "Baracker",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Containrar och baracker"
+      ],
+      "hits": 238
+    },
+    "2.91.3111.365": {
+      "name": "Containrar",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Containrar och baracker"
+      ],
+      "hits": 454
+    },
+    "2.91.3111.367": {
+      "name": "Manskapsbodar",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Containrar och baracker"
+      ],
+      "hits": 102
+    },
+    "2.91.3111.368": {
+      "name": "Övrig byggutrustning",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Containrar och baracker"
+      ],
+      "hits": 140
+    },
+    "2.91.8343.347": {
+      "name": "Första hjälpen-kit",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Hälsa och första hjälpen"
+      ],
+      "hits": 8
+    },
+    "2.91.8343.348": {
+      "name": "Hjälpmedel",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Hälsa och första hjälpen"
+      ],
+      "hits": 262
+    },
+    "2.91.8343.349": {
+      "name": "Hud- och kroppsvård",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Hälsa och första hjälpen"
+      ],
+      "hits": 104
+    },
+    "2.91.8343.350": {
+      "name": "Utrustning och inventarier",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Hälsa och första hjälpen"
+      ],
+      "hits": 115
+    },
+    "2.91.8343.357": {
+      "name": "Övrig hälso- och sjukvårdsutrustning",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Hälsa och första hjälpen"
+      ],
+      "hits": 34
+    },
+    "2.91.3105.242": {
+      "name": "Kontorsmaterial",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Kontorsutrustning och inredning"
+      ],
+      "hits": 81
+    },
+    "2.91.3105.294": {
+      "name": "Kontorsmöbler",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Kontorsutrustning och inredning"
+      ],
+      "hits": 379
+    },
+    "2.91.3105.244": {
+      "name": "Kopiatorer",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Kontorsutrustning och inredning"
+      ],
+      "hits": 44
+    },
+    "2.91.3105.243": {
+      "name": "Skrivare",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Kontorsutrustning och inredning"
+      ],
+      "hits": 253
+    },
+    "2.91.3103.354": {
+      "name": "Diskutrustning",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Storkök och restaurang"
+      ],
+      "hits": 74
+    },
+    "2.91.3103.355": {
+      "name": "Inredning",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Storkök och restaurang"
+      ],
+      "hits": 149
+    },
+    "2.91.3103.352": {
+      "name": "Kyl och frys",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Storkök och restaurang"
+      ],
+      "hits": 317
+    },
+    "2.91.3103.351": {
+      "name": "Köksutrustning",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Storkök och restaurang"
+      ],
+      "hits": 500
+    },
+    "2.91.3103.353": {
+      "name": "Matlagning och stekning",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Storkök och restaurang"
+      ],
+      "hits": 191
+    },
+    "2.91.3103.356": {
+      "name": "Övrig köksutrustning",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Storkök och restaurang"
+      ],
+      "hits": 125
+    },
+    "2.91.3102.371": {
+      "name": "Belysning",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Verkstad, bygg och konstruktion"
+      ],
+      "hits": 89
+    },
+    "2.91.3102.372": {
+      "name": "Byggtorkar",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Verkstad, bygg och konstruktion"
+      ],
+      "hits": 14
+    },
+    "2.91.3102.373": {
+      "name": "Kompressorer",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Verkstad, bygg och konstruktion"
+      ],
+      "hits": 173
+    },
+    "2.91.3102.378": {
+      "name": "Lager",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Verkstad, bygg och konstruktion"
+      ],
+      "hits": 96
+    },
+    "2.91.3102.377": {
+      "name": "Maskiner och utrustning",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Verkstad, bygg och konstruktion"
+      ],
+      "hits": 804
+    },
+    "2.91.3102.374": {
+      "name": "Ställningar och hyllsystem",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Verkstad, bygg och konstruktion"
+      ],
+      "hits": 241
+    },
+    "2.91.3102.375": {
+      "name": "Träbearbetning",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Verkstad, bygg och konstruktion"
+      ],
+      "hits": 296
+    },
+    "2.91.3102.370": {
+      "name": "Verkstadsutrustning",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Verkstad, bygg och konstruktion"
+      ],
+      "hits": 322
+    },
+    "2.91.3102.369": {
+      "name": "Verktyg",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Verkstad, bygg och konstruktion"
+      ],
+      "hits": 550
+    },
+    "2.91.3102.379": {
+      "name": "Övrig utrustning",
+      "path": [
+        "Kategori",
+        "Affärsverksamhet",
+        "Verkstad, bygg och konstruktion"
+      ],
+      "hits": 348
+    },
+    "2.67.7749.157": {
+      "name": "Badkar",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Badrum"
+      ],
+      "hits": 636
+    },
+    "2.67.7749.164": {
+      "name": "Badrumsmöbler",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Badrum"
+      ],
+      "hits": 1310
+    },
+    "2.67.7749.163": {
+      "name": "Badrumstillbehör",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Badrum"
+      ],
+      "hits": 1977
+    },
+    "2.67.7749.158": {
+      "name": "Bastu",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Badrum"
+      ],
+      "hits": 399
+    },
+    "2.67.7749.156": {
+      "name": "Blandare",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Badrum"
+      ],
+      "hits": 983
+    },
+    "2.67.7749.160": {
+      "name": "Duschkabiner och -väggar",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Badrum"
+      ],
+      "hits": 865
+    },
+    "2.67.7749.162": {
+      "name": "Handfat",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Badrum"
+      ],
+      "hits": 869
+    },
+    "2.67.7749.161": {
+      "name": "Toaletter",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Badrum"
+      ],
+      "hits": 621
+    },
+    "2.67.7749.159": {
+      "name": "Ångduschar",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Badrum"
+      ],
+      "hits": 93
+    },
+    "2.67.3899.166": {
+      "name": "Byggsatser",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Byggmaterial och renovering"
+      ],
+      "hits": 2348
+    },
+    "2.67.3899.169": {
+      "name": "Dörrar",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Byggmaterial och renovering"
+      ],
+      "hits": 4948
+    },
+    "2.67.3899.168": {
+      "name": "Fönster",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Byggmaterial och renovering"
+      ],
+      "hits": 3256
+    },
+    "2.67.3899.167": {
+      "name": "Golv",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Byggmaterial och renovering"
+      ],
+      "hits": 2151
+    },
+    "2.67.3899.301": {
+      "name": "Tapeter och färg",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Byggmaterial och renovering"
+      ],
+      "hits": 1187
+    },
+    "2.67.3899.346": {
+      "name": "Trappor",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Byggmaterial och renovering"
+      ],
+      "hits": 661
+    },
+    "2.67.3899.165": {
+      "name": "Övrigt byggmaterial",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Byggmaterial och renovering"
+      ],
+      "hits": 5786
+    },
+    "2.67.3901.147": {
+      "name": "Grillar",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Trädgård och utemiljö"
+      ],
+      "hits": 1930
+    },
+    "2.67.3901.149": {
+      "name": "Gräsklippare",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Trädgård och utemiljö"
+      ],
+      "hits": 3198
+    },
+    "2.67.3901.146": {
+      "name": "Markiser och parasoller",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Trädgård och utemiljö"
+      ],
+      "hits": 804
+    },
+    "2.67.3901.144": {
+      "name": "Partytält",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Trädgård och utemiljö"
+      ],
+      "hits": 278
+    },
+    "2.67.3901.150": {
+      "name": "Pooler och spabad",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Trädgård och utemiljö"
+      ],
+      "hits": 1890
+    },
+    "2.67.3901.148": {
+      "name": "Snöröjning",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Trädgård och utemiljö"
+      ],
+      "hits": 580
+    },
+    "2.67.3901.143": {
+      "name": "Trädgårdsredskap",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Trädgård och utemiljö"
+      ],
+      "hits": 2927
+    },
+    "2.67.3901.142": {
+      "name": "Utemöbler",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Trädgård och utemiljö"
+      ],
+      "hits": 6867
+    },
+    "2.67.3901.339": {
+      "name": "Växter och tillbehör",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Trädgård och utemiljö"
+      ],
+      "hits": 4585
+    },
+    "2.67.3901.145": {
+      "name": "Övrig trädgårdsutrustning",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Trädgård och utemiljö"
+      ],
+      "hits": 2424
+    },
+    "2.67.5218.152": {
+      "name": "Eldstäder",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Värme och ventilation"
+      ],
+      "hits": 1832
+    },
+    "2.67.5218.155": {
+      "name": "Element",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Värme och ventilation"
+      ],
+      "hits": 1186
+    },
+    "2.67.5218.297": {
+      "name": "Luftkonditionering och fläktar",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Värme och ventilation"
+      ],
+      "hits": 2329
+    },
+    "2.67.5218.151": {
+      "name": "Radiatorer",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Värme och ventilation"
+      ],
+      "hits": 859
+    },
+    "2.67.5218.153": {
+      "name": "Ved och bränsle",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Värme och ventilation"
+      ],
+      "hits": 1599
+    },
+    "2.67.5218.154": {
+      "name": "Värmepumpar",
+      "path": [
+        "Kategori",
+        "Bygg och trädgård",
+        "Värme och ventilation"
+      ],
+      "hits": 824
+    },
+    "2.77.5195.9437": {
+      "name": "Hästutrustning",
+      "path": [
+        "Kategori",
+        "Djur och tillbehör",
+        "Häst- och ridutrustning"
+      ],
+      "hits": 1479
+    },
+    "2.77.5195.9436": {
+      "name": "Ridkläder och utrustning",
+      "path": [
+        "Kategori",
+        "Djur och tillbehör",
+        "Häst- och ridutrustning"
+      ],
+      "hits": 1665
+    },
+    "2.77.5195.9435": {
+      "name": "Sadlar",
+      "path": [
+        "Kategori",
+        "Djur och tillbehör",
+        "Häst- och ridutrustning"
+      ],
+      "hits": 679
+    },
+    "2.77.5195.9438": {
+      "name": "Övrig utrustning",
+      "path": [
+        "Kategori",
+        "Djur och tillbehör",
+        "Häst- och ridutrustning"
+      ],
+      "hits": 487
+    },
+    "2.77.5190.36": {
+      "name": "Kallblod",
+      "path": [
+        "Kategori",
+        "Djur och tillbehör",
+        "Hästar"
+      ],
+      "hits": 43
+    },
+    "2.77.5190.37": {
+      "name": "Ponnyer",
+      "path": [
+        "Kategori",
+        "Djur och tillbehör",
+        "Hästar"
+      ],
+      "hits": 140
+    },
+    "2.77.5190.38": {
+      "name": "Varmblod",
+      "path": [
+        "Kategori",
+        "Djur och tillbehör",
+        "Hästar"
+      ],
+      "hits": 68
+    },
+    "2.77.9439.9440": {
+      "name": "Fjäderfä",
+      "path": [
+        "Kategori",
+        "Djur och tillbehör",
+        "Lantbruksdjur"
+      ],
+      "hits": 1028
+    },
+    "2.77.9439.9441": {
+      "name": "Får och getter",
+      "path": [
+        "Kategori",
+        "Djur och tillbehör",
+        "Lantbruksdjur"
+      ],
+      "hits": 311
+    },
+    "2.77.9439.9442": {
+      "name": "Nötkreatur",
+      "path": [
+        "Kategori",
+        "Djur och tillbehör",
+        "Lantbruksdjur"
+      ],
+      "hits": 113
+    },
+    "2.77.9439.9443": {
+      "name": "Övriga lantbruksdjur",
+      "path": [
+        "Kategori",
+        "Djur och tillbehör",
+        "Lantbruksdjur"
+      ],
+      "hits": 138
+    },
+    "2.93.3215.8368": {
+      "name": "Datorkomponenter",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Datorer"
+      ],
+      "hits": 2515
+    },
+    "2.93.3215.45": {
+      "name": "Datorskärmar",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Datorer"
+      ],
+      "hits": 2528
+    },
+    "2.93.3215.46": {
+      "name": "Dator­tillbehör",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Datorer"
+      ],
+      "hits": 4581
+    },
+    "2.93.3215.8367": {
+      "name": "Hårddiskar och lagring",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Datorer"
+      ],
+      "hits": 772
+    },
+    "2.93.3215.43": {
+      "name": "Laptops",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Datorer"
+      ],
+      "hits": 3211
+    },
+    "2.93.3215.47": {
+      "name": "Miniräknare",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Datorer"
+      ],
+      "hits": 239
+    },
+    "2.93.3215.9434": {
+      "name": "Nätverk",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Datorer"
+      ],
+      "hits": 1766
+    },
+    "2.93.3215.49": {
+      "name": "Software",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Datorer"
+      ],
+      "hits": 164
+    },
+    "2.93.3215.44": {
+      "name": "Stationär dator",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Datorer"
+      ],
+      "hits": 2457
+    },
+    "2.93.3215.48": {
+      "name": "Surfplattor och läsplattor",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Datorer"
+      ],
+      "hits": 1120
+    },
+    "2.93.3904.303": {
+      "name": "Hybridkameror",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Foto och video"
+      ],
+      "hits": 470
+    },
+    "2.93.3904.500": {
+      "name": "Kameraväskor",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Foto och video"
+      ],
+      "hits": 441
+    },
+    "2.93.3904.502": {
+      "name": "Kompaktkameror",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Foto och video"
+      ],
+      "hits": 749
+    },
+    "2.93.3904.503": {
+      "name": "Objektiv",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Foto och video"
+      ],
+      "hits": 1790
+    },
+    "2.93.3904.66": {
+      "name": "Systemkameror",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Foto och video"
+      ],
+      "hits": 1368
+    },
+    "2.93.3904.504": {
+      "name": "Videokameror",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Foto och video"
+      ],
+      "hits": 802
+    },
+    "2.93.3904.505": {
+      "name": "Övrig fotoutrustning",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Foto och video"
+      ],
+      "hits": 1880
+    },
+    "2.93.3216.87": {
+      "name": "Brödrostar",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Hushållsapparater"
+      ],
+      "hits": 166
+    },
+    "2.93.3216.81": {
+      "name": "Dammsugare",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Hushållsapparater"
+      ],
+      "hits": 1540
+    },
+    "2.93.3216.506": {
+      "name": "Kaffebryggare och -maskiner",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Hushållsapparater"
+      ],
+      "hits": 2345
+    },
+    "2.93.3216.507": {
+      "name": "Köksmaskiner och matberedare",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Hushållsapparater"
+      ],
+      "hits": 1866
+    },
+    "2.93.3216.83": {
+      "name": "Mixers och blenders",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Hushållsapparater"
+      ],
+      "hits": 519
+    },
+    "2.93.3216.89": {
+      "name": "Stavmixer och elvispar",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Hushållsapparater"
+      ],
+      "hits": 167
+    },
+    "2.93.3216.84": {
+      "name": "Strykjärn",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Hushållsapparater"
+      ],
+      "hits": 352
+    },
+    "2.93.3216.85": {
+      "name": "Vattenkokare",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Hushållsapparater"
+      ],
+      "hits": 285
+    },
+    "2.93.3216.88": {
+      "name": "Våffeljärn och smörgåsgrillar",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Hushållsapparater"
+      ],
+      "hits": 326
+    },
+    "2.93.3216.304": {
+      "name": "Övriga hushållsapparater",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Hushållsapparater"
+      ],
+      "hits": 1148
+    },
+    "2.93.3906.56": {
+      "name": "Blu-ray-spelare",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Ljud och bild"
+      ],
+      "hits": 45
+    },
+    "2.93.3906.57": {
+      "name": "DVD-spelare",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Ljud och bild"
+      ],
+      "hits": 276
+    },
+    "2.93.3906.52": {
+      "name": "Förstärkare och receivers",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Ljud och bild"
+      ],
+      "hits": 1227
+    },
+    "2.93.3906.59": {
+      "name": "Hemmabiosystem",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Ljud och bild"
+      ],
+      "hits": 981
+    },
+    "2.93.3906.53": {
+      "name": "Högtalare",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Ljud och bild"
+      ],
+      "hits": 3758
+    },
+    "2.93.3906.51": {
+      "name": "Hörlurar",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Ljud och bild"
+      ],
+      "hits": 2052
+    },
+    "2.93.3906.326": {
+      "name": "Kablar och tillbehör",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Ljud och bild"
+      ],
+      "hits": 1461
+    },
+    "2.93.3906.50": {
+      "name": "MP3-spelare och portabelt ljud",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Ljud och bild"
+      ],
+      "hits": 305
+    },
+    "2.93.3906.54": {
+      "name": "PA-system",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Ljud och bild"
+      ],
+      "hits": 685
+    },
+    "2.93.3906.60": {
+      "name": "Projektorer och projektordukar",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Ljud och bild"
+      ],
+      "hits": 651
+    },
+    "2.93.3906.302": {
+      "name": "Radio",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Ljud och bild"
+      ],
+      "hits": 474
+    },
+    "2.93.3906.55": {
+      "name": "Stereoanläggningar",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Ljud och bild"
+      ],
+      "hits": 1209
+    },
+    "2.93.3906.61": {
+      "name": "Streaming och digitalboxar",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Ljud och bild"
+      ],
+      "hits": 380
+    },
+    "2.93.3906.62": {
+      "name": "TV",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Ljud och bild"
+      ],
+      "hits": 2904
+    },
+    "2.93.3906.58": {
+      "name": "VHS-spelare",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Ljud och bild"
+      ],
+      "hits": 138
+    },
+    "2.93.3905.65": {
+      "name": "Gamingtillbehör",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "TV-spel och spelkonsoler"
+      ],
+      "hits": 3586
+    },
+    "2.93.3905.64": {
+      "name": "Spel",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "TV-spel och spelkonsoler"
+      ],
+      "hits": 4957
+    },
+    "2.93.3905.63": {
+      "name": "Spelkonsoler",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "TV-spel och spelkonsoler"
+      ],
+      "hits": 2943
+    },
+    "2.93.3217.39": {
+      "name": "Mobiltelefoner",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Telefoner och tillbehör"
+      ],
+      "hits": 5309
+    },
+    "2.93.3217.41": {
+      "name": "Mobiltillbehör",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Telefoner och tillbehör"
+      ],
+      "hits": 2572
+    },
+    "2.93.3217.40": {
+      "name": "Övriga telefoner",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Telefoner och tillbehör"
+      ],
+      "hits": 296
+    },
+    "2.93.3907.509": {
+      "name": "Diskmaskiner",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Vitvaror"
+      ],
+      "hits": 931
+    },
+    "2.93.3907.72": {
+      "name": "Frysar",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Vitvaror"
+      ],
+      "hits": 373
+    },
+    "2.93.3907.74": {
+      "name": "Inbyggnadsugnar",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Vitvaror"
+      ],
+      "hits": 391
+    },
+    "2.93.3907.292": {
+      "name": "Kylskåp",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Vitvaror"
+      ],
+      "hits": 1647
+    },
+    "2.93.3907.511": {
+      "name": "Köksfläktar",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Vitvaror"
+      ],
+      "hits": 537
+    },
+    "2.93.3907.508": {
+      "name": "Mikrovågsugnar",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Vitvaror"
+      ],
+      "hits": 660
+    },
+    "2.93.3907.73": {
+      "name": "Spisar",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Vitvaror"
+      ],
+      "hits": 674
+    },
+    "2.93.3907.75": {
+      "name": "Spishällar och -plattor",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Vitvaror"
+      ],
+      "hits": 491
+    },
+    "2.93.3907.510": {
+      "name": "Torktumlare",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Vitvaror"
+      ],
+      "hits": 338
+    },
+    "2.93.3907.79": {
+      "name": "Tvättmaskiner",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Vitvaror"
+      ],
+      "hits": 1536
+    },
+    "2.93.3907.305": {
+      "name": "Övriga vitvaror",
+      "path": [
+        "Kategori",
+        "Elektronik och vitvaror",
+        "Vitvaror"
+      ],
+      "hits": 717
+    },
+    "2.90.82.5": {
+      "name": "Bilstereo",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Bildelar och tillbehör"
+      ],
+      "hits": 285
+    },
+    "2.90.82.3": {
+      "name": "Bilsäten",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Bildelar och tillbehör"
+      ],
+      "hits": 238
+    },
+    "2.90.82.6": {
+      "name": "Däck och fälgar",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Bildelar och tillbehör"
+      ],
+      "hits": 13852
+    },
+    "2.90.82.344": {
+      "name": "GPS",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Bildelar och tillbehör"
+      ],
+      "hits": 74
+    },
+    "2.90.82.2": {
+      "name": "Reservdelar",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Bildelar och tillbehör"
+      ],
+      "hits": 3503
+    },
+    "2.90.82.8": {
+      "name": "Styling",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Bildelar och tillbehör"
+      ],
+      "hits": 605
+    },
+    "2.90.82.4": {
+      "name": "Takräcken och takboxar",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Bildelar och tillbehör"
+      ],
+      "hits": 1622
+    },
+    "2.90.82.9": {
+      "name": "Övriga biltillbehör",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Bildelar och tillbehör"
+      ],
+      "hits": 1674
+    },
+    "2.90.30.9810": {
+      "name": "Båtmotorer",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Båtdelar och tillbehör"
+      ],
+      "hits": 1696
+    },
+    "2.90.30.319": {
+      "name": "El och VVS",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Båtdelar och tillbehör"
+      ],
+      "hits": 117
+    },
+    "2.90.30.318": {
+      "name": "Elektronik",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Båtdelar och tillbehör"
+      ],
+      "hits": 167
+    },
+    "2.90.30.322": {
+      "name": "Flytvästar och säkerhetsutrustning",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Båtdelar och tillbehör"
+      ],
+      "hits": 116
+    },
+    "2.90.30.324": {
+      "name": "Förtöjning",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Båtdelar och tillbehör"
+      ],
+      "hits": 233
+    },
+    "2.90.30.320": {
+      "name": "Interiör och exteriör",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Båtdelar och tillbehör"
+      ],
+      "hits": 204
+    },
+    "2.90.30.340": {
+      "name": "Motordelar",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Båtdelar och tillbehör"
+      ],
+      "hits": 446
+    },
+    "2.90.30.345": {
+      "name": "Navigation",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Båtdelar och tillbehör"
+      ],
+      "hits": 116
+    },
+    "2.90.30.321": {
+      "name": "Styrning och vinsch",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Båtdelar och tillbehör"
+      ],
+      "hits": 52
+    },
+    "2.90.30.323": {
+      "name": "Utrustning för segelbåt",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Båtdelar och tillbehör"
+      ],
+      "hits": 300
+    },
+    "2.90.30.325": {
+      "name": "Övriga båttillbehör",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Båtdelar och tillbehör"
+      ],
+      "hits": 644
+    },
+    "2.90.20.10": {
+      "name": "MC-delar",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "MC-utrustning och reservdelar"
+      ],
+      "hits": 861
+    },
+    "2.90.20.12": {
+      "name": "MC-kläder och hjälmar",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "MC-utrustning och reservdelar"
+      ],
+      "hits": 1485
+    },
+    "2.90.20.11": {
+      "name": "MC-tillbehör",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "MC-utrustning och reservdelar"
+      ],
+      "hits": 551
+    },
+    "2.90.20.9432": {
+      "name": "Mopeddelar och tillbehör",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "MC-utrustning och reservdelar"
+      ],
+      "hits": 2355
+    },
+    "2.90.20.9433": {
+      "name": "Snöskoterdelar och tillbehör",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "MC-utrustning och reservdelar"
+      ],
+      "hits": 314
+    },
+    "2.90.80.17": {
+      "name": "Biltransportsläp",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Släp och trailers"
+      ],
+      "hits": 605
+    },
+    "2.90.80.14": {
+      "name": "Båttrailers och båtvagnar",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Släp och trailers"
+      ],
+      "hits": 1952
+    },
+    "2.90.80.19": {
+      "name": "Hästtransporter",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Släp och trailers"
+      ],
+      "hits": 842
+    },
+    "2.90.80.517": {
+      "name": "Kylsläp",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Släp och trailers"
+      ],
+      "hits": 15
+    },
+    "2.90.80.16": {
+      "name": "MC- och ATV-släp",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Släp och trailers"
+      ],
+      "hits": 480
+    },
+    "2.90.80.18": {
+      "name": "Maskinsläp",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Släp och trailers"
+      ],
+      "hits": 302
+    },
+    "2.90.80.15": {
+      "name": "Skåpsläp",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Släp och trailers"
+      ],
+      "hits": 412
+    },
+    "2.90.80.308": {
+      "name": "Släptillbehör och reservdelar",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Släp och trailers"
+      ],
+      "hits": 204
+    },
+    "2.90.80.13": {
+      "name": "Släpvagnar",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Släp och trailers"
+      ],
+      "hits": 2978
+    },
+    "2.90.80.309": {
+      "name": "Tippvagnar",
+      "path": [
+        "Kategori",
+        "Fordonstillbehör",
+        "Släp och trailers"
+      ],
+      "hits": 611
+    },
+    "2.68.3913.8351": {
+      "name": "Bodies och sparkdräkter",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnkläder"
+      ],
+      "hits": 430
+    },
+    "2.68.3913.8352": {
+      "name": "Byxor och shorts",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnkläder"
+      ],
+      "hits": 1709
+    },
+    "2.68.3913.9444": {
+      "name": "Festkläder och speciella tillfällen",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnkläder"
+      ],
+      "hits": 749
+    },
+    "2.68.3913.8357": {
+      "name": "Kjolar och klänningar",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnkläder"
+      ],
+      "hits": 739
+    },
+    "2.68.3913.9808": {
+      "name": "Klädpaket",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnkläder"
+      ],
+      "hits": 2410
+    },
+    "2.68.3913.8350": {
+      "name": "Mössor och vantar",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnkläder"
+      ],
+      "hits": 668
+    },
+    "2.68.3913.8353": {
+      "name": "Sovkläder",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnkläder"
+      ],
+      "hits": 356
+    },
+    "2.68.3913.8355": {
+      "name": "T-shirts och toppar",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnkläder"
+      ],
+      "hits": 1467
+    },
+    "2.68.3913.8354": {
+      "name": "Tröjor och stickat",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnkläder"
+      ],
+      "hits": 1276
+    },
+    "2.68.3913.8356": {
+      "name": "Ytterkläder",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnkläder"
+      ],
+      "hits": 7585
+    },
+    "2.68.3913.8358": {
+      "name": "Övriga barnkläder",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnkläder"
+      ],
+      "hits": 922
+    },
+    "2.68.3916.314": {
+      "name": "Barnbord",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnmöbler"
+      ],
+      "hits": 595
+    },
+    "2.68.3916.313": {
+      "name": "Barnstolar",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnmöbler"
+      ],
+      "hits": 2722
+    },
+    "2.68.3916.312": {
+      "name": "Barnsängar",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnmöbler"
+      ],
+      "hits": 4625
+    },
+    "2.68.3916.315": {
+      "name": "Förvaring",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnmöbler"
+      ],
+      "hits": 1112
+    },
+    "2.68.3916.316": {
+      "name": "Skötbord",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnmöbler"
+      ],
+      "hits": 853
+    },
+    "2.68.3916.317": {
+      "name": "Övriga barnmöbler",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnmöbler"
+      ],
+      "hits": 624
+    },
+    "2.68.3915.9448": {
+      "name": "Babyskor",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnskor"
+      ],
+      "hits": 263
+    },
+    "2.68.3915.9456": {
+      "name": "Ballerinaskor",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnskor"
+      ],
+      "hits": 118
+    },
+    "2.68.3915.9452": {
+      "name": "Finskor",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnskor"
+      ],
+      "hits": 113
+    },
+    "2.68.3915.9450": {
+      "name": "Gummistövlar",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnskor"
+      ],
+      "hits": 750
+    },
+    "2.68.3915.9455": {
+      "name": "Innetofflor",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnskor"
+      ],
+      "hits": 149
+    },
+    "2.68.3915.9457": {
+      "name": "Loafers och seglarskor",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnskor"
+      ],
+      "hits": 77
+    },
+    "2.68.3915.9453": {
+      "name": "Sandaler",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnskor"
+      ],
+      "hits": 477
+    },
+    "2.68.3915.9458": {
+      "name": "Sneakers",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnskor"
+      ],
+      "hits": 1736
+    },
+    "2.68.3915.9449": {
+      "name": "Stövlar",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnskor"
+      ],
+      "hits": 407
+    },
+    "2.68.3915.9454": {
+      "name": "Träskor och tofflor",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnskor"
+      ],
+      "hits": 86
+    },
+    "2.68.3915.9451": {
+      "name": "Vinterskor",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnskor"
+      ],
+      "hits": 1339
+    },
+    "2.68.3915.9459": {
+      "name": "Övriga barnskor",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnskor"
+      ],
+      "hits": 262
+    },
+    "2.68.3914.9466": {
+      "name": "Barnvagnstillbehör",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnvagnar"
+      ],
+      "hits": 1667
+    },
+    "2.68.3914.9465": {
+      "name": "Joggingvagnar",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnvagnar"
+      ],
+      "hits": 143
+    },
+    "2.68.3914.9461": {
+      "name": "Kombi- och duovagnar",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnvagnar"
+      ],
+      "hits": 2502
+    },
+    "2.68.3914.9460": {
+      "name": "Liggvagnar",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnvagnar"
+      ],
+      "hits": 1573
+    },
+    "2.68.3914.9464": {
+      "name": "Resevagnar",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnvagnar"
+      ],
+      "hits": 850
+    },
+    "2.68.3914.9463": {
+      "name": "Sittvagnar och sulkys",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnvagnar"
+      ],
+      "hits": 758
+    },
+    "2.68.3914.9462": {
+      "name": "Syskon- och tvillingvagnar",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Barnvagnar"
+      ],
+      "hits": 881
+    },
+    "2.68.3911.9446": {
+      "name": "Bilbarnstolar och babyskydd",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Bil- och cykelstolar"
+      ],
+      "hits": 4632
+    },
+    "2.68.3911.9447": {
+      "name": "Cykelstolar",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Bil- och cykelstolar"
+      ],
+      "hits": 596
+    },
+    "2.68.3912.330": {
+      "name": "Babyleksaker",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Leksaker"
+      ],
+      "hits": 2552
+    },
+    "2.68.3912.333": {
+      "name": "Byggsatser och klossar",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Leksaker"
+      ],
+      "hits": 993
+    },
+    "2.68.3912.331": {
+      "name": "Gosedjur, dockor och figurer",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Leksaker"
+      ],
+      "hits": 4521
+    },
+    "2.68.3912.9775": {
+      "name": "LEGO och DUPLO",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Leksaker"
+      ],
+      "hits": 5286
+    },
+    "2.68.3912.332": {
+      "name": "Leksaksbilar och banor",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Leksaker"
+      ],
+      "hits": 2224
+    },
+    "2.68.3912.334": {
+      "name": "Måla och pyssla",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Leksaker"
+      ],
+      "hits": 672
+    },
+    "2.68.3912.335": {
+      "name": "Uteleksaker",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Leksaker"
+      ],
+      "hits": 2978
+    },
+    "2.68.3912.336": {
+      "name": "Övriga leksaker",
+      "path": [
+        "Kategori",
+        "Föräldrar och barn",
+        "Leksaker"
+      ],
+      "hits": 2602
+    },
+    "2.71.9481.9482": {
+      "name": "Skärp",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Accessoarer"
+      ],
+      "hits": 431
+    },
+    "2.71.9481.9483": {
+      "name": "Slipsar och flugor",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Accessoarer"
+      ],
+      "hits": 198
+    },
+    "2.71.9481.9484": {
+      "name": "Övriga accessoarer",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Accessoarer"
+      ],
+      "hits": 565
+    },
+    "2.71.3941.171": {
+      "name": "Brudklänningar",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Damkläder"
+      ],
+      "hits": 1274
+    },
+    "2.71.3941.174": {
+      "name": "Byxor och shorts",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Damkläder"
+      ],
+      "hits": 1628
+    },
+    "2.71.3941.170": {
+      "name": "Folkdräkter",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Damkläder"
+      ],
+      "hits": 141
+    },
+    "2.71.3941.178": {
+      "name": "Jackor",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Damkläder"
+      ],
+      "hits": 4771
+    },
+    "2.71.3941.8370": {
+      "name": "Jeans",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Damkläder"
+      ],
+      "hits": 1322
+    },
+    "2.71.3941.8372": {
+      "name": "Jumpsuits",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Damkläder"
+      ],
+      "hits": 184
+    },
+    "2.71.3941.175": {
+      "name": "Kjolar",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Damkläder"
+      ],
+      "hits": 890
+    },
+    "2.71.3941.172": {
+      "name": "Klänningar",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Damkläder"
+      ],
+      "hits": 5614
+    },
+    "2.71.3941.8371": {
+      "name": "Kostymer och kavajer",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Damkläder"
+      ],
+      "hits": 795
+    },
+    "2.71.3941.310": {
+      "name": "Mössor, halsdukar och handskar",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Damkläder"
+      ],
+      "hits": 808
+    },
+    "2.71.3941.180": {
+      "name": "Skjortor och blusar",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Damkläder"
+      ],
+      "hits": 1553
+    },
+    "2.71.3941.179": {
+      "name": "T-shirts",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Damkläder"
+      ],
+      "hits": 540
+    },
+    "2.71.3941.176": {
+      "name": "Toppar",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Damkläder"
+      ],
+      "hits": 1232
+    },
+    "2.71.3941.177": {
+      "name": "Tröjor och stickat",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Damkläder"
+      ],
+      "hits": 2308
+    },
+    "2.71.3941.181": {
+      "name": "Underkläder",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Damkläder"
+      ],
+      "hits": 471
+    },
+    "2.71.3941.173": {
+      "name": "Ytterkläder",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Damkläder"
+      ],
+      "hits": 3689
+    },
+    "2.71.3941.182": {
+      "name": "Övriga damkläder",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Damkläder"
+      ],
+      "hits": 791
+    },
+    "2.71.8344.200": {
+      "name": "Glasögon",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Glasögon och solglasögon"
+      ],
+      "hits": 201
+    },
+    "2.71.8344.199": {
+      "name": "Solglasögon",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Glasögon och solglasögon"
+      ],
+      "hits": 1192
+    },
+    "2.71.3950.184": {
+      "name": "Byxor och shorts",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Herrkläder"
+      ],
+      "hits": 1513
+    },
+    "2.71.3950.188": {
+      "name": "Folkdräkter",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Herrkläder"
+      ],
+      "hits": 45
+    },
+    "2.71.3950.8373": {
+      "name": "Jeans",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Herrkläder"
+      ],
+      "hits": 1630
+    },
+    "2.71.3950.189": {
+      "name": "Kostymer",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Herrkläder"
+      ],
+      "hits": 1484
+    },
+    "2.71.3950.311": {
+      "name": "Mössor, halsdukar och handskar",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Herrkläder"
+      ],
+      "hits": 780
+    },
+    "2.71.3950.185": {
+      "name": "Skjortor",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Herrkläder"
+      ],
+      "hits": 2002
+    },
+    "2.71.3950.190": {
+      "name": "Smokingar",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Herrkläder"
+      ],
+      "hits": 104
+    },
+    "2.71.3950.187": {
+      "name": "T-shirts och linnen",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Herrkläder"
+      ],
+      "hits": 1558
+    },
+    "2.71.3950.186": {
+      "name": "Tröjor och stickat",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Herrkläder"
+      ],
+      "hits": 3155
+    },
+    "2.71.3950.191": {
+      "name": "Underkläder",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Herrkläder"
+      ],
+      "hits": 94
+    },
+    "2.71.3950.183": {
+      "name": "Ytterkläder",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Herrkläder"
+      ],
+      "hits": 6644
+    },
+    "2.71.3950.192": {
+      "name": "Övriga herrkläder",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Herrkläder"
+      ],
+      "hits": 549
+    },
+    "2.71.8282.1660": {
+      "name": "Parfym",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Kosmetika"
+      ],
+      "hits": 980
+    },
+    "2.71.8282.1659": {
+      "name": "Smink",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Kosmetika"
+      ],
+      "hits": 429
+    },
+    "2.71.3949.194": {
+      "name": "Damskor",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Skor"
+      ],
+      "hits": 10000
+    },
+    "2.71.3949.193": {
+      "name": "Herrskor",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Skor"
+      ],
+      "hits": 6463
+    },
+    "2.71.7748.198": {
+      "name": "Armband",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Smycken"
+      ],
+      "hits": 1191
+    },
+    "2.71.7748.9468": {
+      "name": "Berlocker och hängen",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Smycken"
+      ],
+      "hits": 384
+    },
+    "2.71.7748.195": {
+      "name": "Halsband",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Smycken"
+      ],
+      "hits": 1405
+    },
+    "2.71.7748.9467": {
+      "name": "Manschettknappar",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Smycken"
+      ],
+      "hits": 74
+    },
+    "2.71.7748.9469": {
+      "name": "Pins och broscher",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Smycken"
+      ],
+      "hits": 317
+    },
+    "2.71.7748.196": {
+      "name": "Ringar",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Smycken"
+      ],
+      "hits": 879
+    },
+    "2.71.7748.307": {
+      "name": "Smyckeskrin och förvaring",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Smycken"
+      ],
+      "hits": 455
+    },
+    "2.71.7748.9470": {
+      "name": "Smyckesset",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Smycken"
+      ],
+      "hits": 409
+    },
+    "2.71.7748.197": {
+      "name": "Örhängen",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Smycken"
+      ],
+      "hits": 979
+    },
+    "2.71.7748.306": {
+      "name": "Övriga smycken",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Smycken"
+      ],
+      "hits": 127
+    },
+    "2.71.3946.9474": {
+      "name": "Axelremsväskor",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Väskor och plånböcker"
+      ],
+      "hits": 1984
+    },
+    "2.71.3946.9473": {
+      "name": "Handväskor",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Väskor och plånböcker"
+      ],
+      "hits": 2494
+    },
+    "2.71.3946.9479": {
+      "name": "Kuvertväskor",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Väskor och plånböcker"
+      ],
+      "hits": 387
+    },
+    "2.71.3946.9478": {
+      "name": "Messenger-väskor",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Väskor och plånböcker"
+      ],
+      "hits": 171
+    },
+    "2.71.3946.9471": {
+      "name": "Plånböcker och korthållare",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Väskor och plånböcker"
+      ],
+      "hits": 605
+    },
+    "2.71.3946.9477": {
+      "name": "Portföljer och datorväskor",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Väskor och plånböcker"
+      ],
+      "hits": 765
+    },
+    "2.71.3946.9476": {
+      "name": "Resväskor",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Väskor och plånböcker"
+      ],
+      "hits": 1389
+    },
+    "2.71.3946.9472": {
+      "name": "Ryggsäckar",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Väskor och plånböcker"
+      ],
+      "hits": 985
+    },
+    "2.71.3946.9475": {
+      "name": "Träningsväskor och duffelväskor",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Väskor och plånböcker"
+      ],
+      "hits": 252
+    },
+    "2.71.3946.9480": {
+      "name": "Övriga väskor",
+      "path": [
+        "Kategori",
+        "Kläder, kosmetika och accessoarer",
+        "Väskor och plånböcker"
+      ],
+      "hits": 411
+    },
+    "2.76.5177.385": {
+      "name": "Akryl",
+      "path": [
+        "Kategori",
+        "Konst och antikt",
+        "Konst"
+      ],
+      "hits": 1434
+    },
+    "2.76.5177.386": {
+      "name": "Akvarell",
+      "path": [
+        "Kategori",
+        "Konst och antikt",
+        "Konst"
+      ],
+      "hits": 458
+    },
+    "2.76.5177.388": {
+      "name": "Fotografi",
+      "path": [
+        "Kategori",
+        "Konst och antikt",
+        "Konst"
+      ],
+      "hits": 617
+    },
+    "2.76.5177.389": {
+      "name": "Litografi",
+      "path": [
+        "Kategori",
+        "Konst och antikt",
+        "Konst"
+      ],
+      "hits": 1349
+    },
+    "2.76.5177.387": {
+      "name": "Mixed media",
+      "path": [
+        "Kategori",
+        "Konst och antikt",
+        "Konst"
+      ],
+      "hits": 146
+    },
+    "2.76.5177.390": {
+      "name": "Oljemålning",
+      "path": [
+        "Kategori",
+        "Konst och antikt",
+        "Konst"
+      ],
+      "hits": 2375
+    },
+    "2.76.5177.391": {
+      "name": "Skulptur",
+      "path": [
+        "Kategori",
+        "Konst och antikt",
+        "Konst"
+      ],
+      "hits": 1838
+    },
+    "2.76.5177.392": {
+      "name": "Teckning",
+      "path": [
+        "Kategori",
+        "Konst och antikt",
+        "Konst"
+      ],
+      "hits": 287
+    },
+    "2.76.5177.394": {
+      "name": "Tryck",
+      "path": [
+        "Kategori",
+        "Konst och antikt",
+        "Konst"
+      ],
+      "hits": 1682
+    },
+    "2.76.5177.393": {
+      "name": "Träsnitt",
+      "path": [
+        "Kategori",
+        "Konst och antikt",
+        "Konst"
+      ],
+      "hits": 311
+    },
+    "2.76.5177.395": {
+      "name": "Övrig konst",
+      "path": [
+        "Kategori",
+        "Konst och antikt",
+        "Konst"
+      ],
+      "hits": 966
+    },
+    "2.78.5196.215": {
+      "name": "Kontorsstolar",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Bord och stolar"
+      ],
+      "hits": 2609
+    },
+    "2.78.5196.213": {
+      "name": "Matbord",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Bord och stolar"
+      ],
+      "hits": 6244
+    },
+    "2.78.5196.211": {
+      "name": "Matgrupper",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Bord och stolar"
+      ],
+      "hits": 5307
+    },
+    "2.78.5196.214": {
+      "name": "Skrivbord",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Bord och stolar"
+      ],
+      "hits": 4474
+    },
+    "2.78.5196.212": {
+      "name": "Soffbord",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Bord och stolar"
+      ],
+      "hits": 9308
+    },
+    "2.78.5196.216": {
+      "name": "Stolar och pallar",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Bord och stolar"
+      ],
+      "hits": 10683
+    },
+    "2.78.5196.217": {
+      "name": "Övriga bord och stolar",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Bord och stolar"
+      ],
+      "hits": 2371
+    },
+    "2.78.5222.239": {
+      "name": "Dekorationsfat och -skålar",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Dekoration och prydnader"
+      ],
+      "hits": 3327
+    },
+    "2.78.5222.240": {
+      "name": "Ljusstakar",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Dekoration och prydnader"
+      ],
+      "hits": 4881
+    },
+    "2.78.5222.299": {
+      "name": "Speglar",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Dekoration och prydnader"
+      ],
+      "hits": 4019
+    },
+    "2.78.5222.237": {
+      "name": "Tavlor och ramar",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Dekoration och prydnader"
+      ],
+      "hits": 4235
+    },
+    "2.78.5222.238": {
+      "name": "Vaser och krukor",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Dekoration och prydnader"
+      ],
+      "hits": 4701
+    },
+    "2.78.5222.241": {
+      "name": "Övriga prydnader",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Dekoration och prydnader"
+      ],
+      "hits": 3051
+    },
+    "2.78.5198.218": {
+      "name": "Garderober",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Garderober och förvaring"
+      ],
+      "hits": 1971
+    },
+    "2.78.5198.222": {
+      "name": "Hyllsystem",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Garderober och förvaring"
+      ],
+      "hits": 2262
+    },
+    "2.78.5198.225": {
+      "name": "Skåp",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Garderober och förvaring"
+      ],
+      "hits": 3459
+    },
+    "2.78.8345.221": {
+      "name": "Byråer",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Hyllor och byråer"
+      ],
+      "hits": 3504
+    },
+    "2.78.8345.219": {
+      "name": "Hyllor",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Hyllor och byråer"
+      ],
+      "hits": 7737
+    },
+    "2.78.8345.220": {
+      "name": "Sideboards",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Hyllor och byråer"
+      ],
+      "hits": 2449
+    },
+    "2.78.8345.223": {
+      "name": "Sängbord",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Hyllor och byråer"
+      ],
+      "hits": 1483
+    },
+    "2.78.8345.224": {
+      "name": "TV- och mediamöbler",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Hyllor och byråer"
+      ],
+      "hits": 3929
+    },
+    "2.78.5223.8362": {
+      "name": "Bestick",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Köksutrustning och porslin"
+      ],
+      "hits": 823
+    },
+    "2.78.5223.8365": {
+      "name": "Förvaringsburkar",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Köksutrustning och porslin"
+      ],
+      "hits": 1734
+    },
+    "2.78.5223.8360": {
+      "name": "Glas",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Köksutrustning och porslin"
+      ],
+      "hits": 3673
+    },
+    "2.78.5223.8359": {
+      "name": "Koppar och muggar",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Köksutrustning och porslin"
+      ],
+      "hits": 2787
+    },
+    "2.78.5223.8364": {
+      "name": "Köksredskap",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Köksutrustning och porslin"
+      ],
+      "hits": 2997
+    },
+    "2.78.5223.8363": {
+      "name": "Serveringsfat och -skålar",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Köksutrustning och porslin"
+      ],
+      "hits": 3521
+    },
+    "2.78.5223.8361": {
+      "name": "Serviser",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Köksutrustning och porslin"
+      ],
+      "hits": 4494
+    },
+    "2.78.5223.8366": {
+      "name": "Övrig köksutrustning",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Köksutrustning och porslin"
+      ],
+      "hits": 1554
+    },
+    "2.78.5181.229": {
+      "name": "Bordslampor",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Lampor"
+      ],
+      "hits": 5239
+    },
+    "2.78.5181.228": {
+      "name": "Golvlampor",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Lampor"
+      ],
+      "hits": 2344
+    },
+    "2.78.5181.226": {
+      "name": "Taklampor",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Lampor"
+      ],
+      "hits": 12018
+    },
+    "2.78.5181.227": {
+      "name": "Vägglampor",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Lampor"
+      ],
+      "hits": 2078
+    },
+    "2.78.5181.230": {
+      "name": "Övriga lampor",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Lampor"
+      ],
+      "hits": 894
+    },
+    "2.78.5180.233": {
+      "name": "Dukar",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Mattor och textilier"
+      ],
+      "hits": 815
+    },
+    "2.78.5180.234": {
+      "name": "Gardiner",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Mattor och textilier"
+      ],
+      "hits": 2422
+    },
+    "2.78.5180.2469": {
+      "name": "Handdukar",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Mattor och textilier"
+      ],
+      "hits": 73
+    },
+    "2.78.5180.232": {
+      "name": "Kuddar",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Mattor och textilier"
+      ],
+      "hits": 1523
+    },
+    "2.78.5180.231": {
+      "name": "Mattor",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Mattor och textilier"
+      ],
+      "hits": 6667
+    },
+    "2.78.5180.2468": {
+      "name": "Sängkläder",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Mattor och textilier"
+      ],
+      "hits": 685
+    },
+    "2.78.5180.235": {
+      "name": "Övriga textilier",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Mattor och textilier"
+      ],
+      "hits": 727
+    },
+    "2.78.9760.9762": {
+      "name": "Dekorationer",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Pynt till högtider och fest"
+      ],
+      "hits": 1336
+    },
+    "2.78.9760.9765": {
+      "name": "Dukning",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Pynt till högtider och fest"
+      ],
+      "hits": 235
+    },
+    "2.78.9760.9761": {
+      "name": "Julgranar",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Pynt till högtider och fest"
+      ],
+      "hits": 274
+    },
+    "2.78.9760.9764": {
+      "name": "Ljusslingor och belysning",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Pynt till högtider och fest"
+      ],
+      "hits": 602
+    },
+    "2.78.9760.9763": {
+      "name": "Textilier",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Pynt till högtider och fest"
+      ],
+      "hits": 235
+    },
+    "2.78.7756.206": {
+      "name": "Bäddsoffor",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Soffor och fåtöljer"
+      ],
+      "hits": 1922
+    },
+    "2.78.7756.210": {
+      "name": "Fåtöljer",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Soffor och fåtöljer"
+      ],
+      "hits": 6712
+    },
+    "2.78.7756.207": {
+      "name": "Hörnsoffor",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Soffor och fåtöljer"
+      ],
+      "hits": 1758
+    },
+    "2.78.7756.209": {
+      "name": "Sittpuffar",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Soffor och fåtöljer"
+      ],
+      "hits": 1615
+    },
+    "2.78.7756.208": {
+      "name": "Soffgrupper",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Soffor och fåtöljer"
+      ],
+      "hits": 2318
+    },
+    "2.78.7756.8374": {
+      "name": "Soffor",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Soffor och fåtöljer"
+      ],
+      "hits": 8126
+    },
+    "2.78.5197.203": {
+      "name": "Madrasser",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Sängar och madrasser"
+      ],
+      "hits": 2110
+    },
+    "2.78.5197.293": {
+      "name": "Rammadrasser",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Sängar och madrasser"
+      ],
+      "hits": 493
+    },
+    "2.78.5197.202": {
+      "name": "Sängar",
+      "path": [
+        "Kategori",
+        "Möbler och inredning",
+        "Sängar och madrasser"
+      ],
+      "hits": 8435
+    },
+    "2.69.3961.9485": {
+      "name": "Badminton",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Bollsporter"
+      ],
+      "hits": 145
+    },
+    "2.69.3961.250": {
+      "name": "Bandy",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Bollsporter"
+      ],
+      "hits": 539
+    },
+    "2.69.3961.247": {
+      "name": "Basket",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Bollsporter"
+      ],
+      "hits": 380
+    },
+    "2.69.3961.9487": {
+      "name": "Bordtennis",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Bollsporter"
+      ],
+      "hits": 272
+    },
+    "2.69.3961.245": {
+      "name": "Fotboll",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Bollsporter"
+      ],
+      "hits": 2530
+    },
+    "2.69.3961.246": {
+      "name": "Handboll",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Bollsporter"
+      ],
+      "hits": 85
+    },
+    "2.69.3961.9486": {
+      "name": "Padel",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Bollsporter"
+      ],
+      "hits": 375
+    },
+    "2.69.3961.9488": {
+      "name": "Squash",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Bollsporter"
+      ],
+      "hits": 24
+    },
+    "2.69.3961.249": {
+      "name": "Tennis",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Bollsporter"
+      ],
+      "hits": 785
+    },
+    "2.69.3961.248": {
+      "name": "Volleyboll",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Bollsporter"
+      ],
+      "hits": 24
+    },
+    "2.69.3961.251": {
+      "name": "Övriga bollsporter",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Bollsporter"
+      ],
+      "hits": 284
+    },
+    "2.69.3963.8375": {
+      "name": "Barncyklar",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Cykling"
+      ],
+      "hits": 4289
+    },
+    "2.69.3963.9773": {
+      "name": "Cykelkläder",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Cykling"
+      ],
+      "hits": 294
+    },
+    "2.69.3963.9774": {
+      "name": "Cykelskor",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Cykling"
+      ],
+      "hits": 259
+    },
+    "2.69.3963.258": {
+      "name": "Cykelutrustning",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Cykling"
+      ],
+      "hits": 3796
+    },
+    "2.69.3963.257": {
+      "name": "Cyklar",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Cykling"
+      ],
+      "hits": 12418
+    },
+    "2.69.3963.8376": {
+      "name": "Sparkcyklar",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Cykling"
+      ],
+      "hits": 3454
+    },
+    "2.69.3938.266": {
+      "name": "Fallskärmshoppning",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Extremsport"
+      ],
+      "hits": 26
+    },
+    "2.69.3938.264": {
+      "name": "Kitesurfing",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Extremsport"
+      ],
+      "hits": 92
+    },
+    "2.69.3938.265": {
+      "name": "Klättring",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Extremsport"
+      ],
+      "hits": 181
+    },
+    "2.69.3938.267": {
+      "name": "Skateboard och longboard",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Extremsport"
+      ],
+      "hits": 678
+    },
+    "2.69.5164.9771": {
+      "name": "Golfbagar och -vagnar",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Golf"
+      ],
+      "hits": 1182
+    },
+    "2.69.5164.9768": {
+      "name": "Golfbollar",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Golf"
+      ],
+      "hits": 1244
+    },
+    "2.69.5164.9770": {
+      "name": "Golfklubbor",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Golf"
+      ],
+      "hits": 6430
+    },
+    "2.69.5164.9766": {
+      "name": "Golfkläder",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Golf"
+      ],
+      "hits": 349
+    },
+    "2.69.5164.9769": {
+      "name": "Golfset",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Golf"
+      ],
+      "hits": 1534
+    },
+    "2.69.5164.9767": {
+      "name": "Golfskor",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Golf"
+      ],
+      "hits": 450
+    },
+    "2.69.5164.9772": {
+      "name": "Övrig golfutrustning",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Golf"
+      ],
+      "hits": 649
+    },
+    "2.69.3964.274": {
+      "name": "Fiskekläder",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Jakt, fiske och camping"
+      ],
+      "hits": 212
+    },
+    "2.69.3964.272": {
+      "name": "Fiskenät och fiskelinor",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Jakt, fiske och camping"
+      ],
+      "hits": 201
+    },
+    "2.69.3964.273": {
+      "name": "Fiskerullar, flugor och krokar",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Jakt, fiske och camping"
+      ],
+      "hits": 841
+    },
+    "2.69.3964.271": {
+      "name": "Fiskespön",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Jakt, fiske och camping"
+      ],
+      "hits": 676
+    },
+    "2.69.3964.269": {
+      "name": "Jaktkläder",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Jakt, fiske och camping"
+      ],
+      "hits": 564
+    },
+    "2.69.3964.279": {
+      "name": "Kanoter och kajaker",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Jakt, fiske och camping"
+      ],
+      "hits": 538
+    },
+    "2.69.3964.300": {
+      "name": "Kikare och optik",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Jakt, fiske och camping"
+      ],
+      "hits": 929
+    },
+    "2.69.3964.278": {
+      "name": "Ryggsäckar",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Jakt, fiske och camping"
+      ],
+      "hits": 782
+    },
+    "2.69.3964.276": {
+      "name": "Sovsäckar",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Jakt, fiske och camping"
+      ],
+      "hits": 258
+    },
+    "2.69.3964.277": {
+      "name": "Tält",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Jakt, fiske och camping"
+      ],
+      "hits": 905
+    },
+    "2.69.3964.268": {
+      "name": "Vapen och ammunition",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Jakt, fiske och camping"
+      ],
+      "hits": 1956
+    },
+    "2.69.3964.275": {
+      "name": "Övrig fiskeutrustning",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Jakt, fiske och camping"
+      ],
+      "hits": 565
+    },
+    "2.69.3964.280": {
+      "name": "Övrig friluftsutrustning",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Jakt, fiske och camping"
+      ],
+      "hits": 1063
+    },
+    "2.69.3964.270": {
+      "name": "Övrig jaktutrustning",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Jakt, fiske och camping"
+      ],
+      "hits": 965
+    },
+    "2.69.8346.406": {
+      "name": "Ishockey- och skridskoutrustning",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Rullskridskor, ishockey och skridskoåkning"
+      ],
+      "hits": 3080
+    },
+    "2.69.8346.405": {
+      "name": "Rullskridskor och skridskor för barn",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Rullskridskor, ishockey och skridskoåkning"
+      ],
+      "hits": 1552
+    },
+    "2.69.8346.404": {
+      "name": "Rullskridskor och skridskor vuxna",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Rullskridskor, ishockey och skridskoåkning"
+      ],
+      "hits": 939
+    },
+    "2.69.3965.283": {
+      "name": "Airsoft",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Skytte"
+      ],
+      "hits": 250
+    },
+    "2.69.3965.284": {
+      "name": "Luftvapen",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Skytte"
+      ],
+      "hits": 281
+    },
+    "2.69.3965.281": {
+      "name": "Paintball",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Skytte"
+      ],
+      "hits": 47
+    },
+    "2.69.3965.282": {
+      "name": "Pistol",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Skytte"
+      ],
+      "hits": 213
+    },
+    "2.69.3940.3983": {
+      "name": "Barnkläder",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Träningskläder och skor"
+      ],
+      "hits": 502
+    },
+    "2.69.3940.3981": {
+      "name": "Damkläder",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Träningskläder och skor"
+      ],
+      "hits": 634
+    },
+    "2.69.3940.3980": {
+      "name": "Herrkläder",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Träningskläder och skor"
+      ],
+      "hits": 855
+    },
+    "2.69.3940.3984": {
+      "name": "Träningsskor",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Träningskläder och skor"
+      ],
+      "hits": 2692
+    },
+    "2.69.3940.3982": {
+      "name": "Unisex",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Träningskläder och skor"
+      ],
+      "hits": 559
+    },
+    "2.69.5166.291": {
+      "name": "Crosstrainers",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Träningsmaskiner och -redskap"
+      ],
+      "hits": 702
+    },
+    "2.69.5166.516": {
+      "name": "Löpband",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Träningsmaskiner och -redskap"
+      ],
+      "hits": 597
+    },
+    "2.69.5166.286": {
+      "name": "Motionscyklar",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Träningsmaskiner och -redskap"
+      ],
+      "hits": 689
+    },
+    "2.69.5166.287": {
+      "name": "Roddmaskiner",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Träningsmaskiner och -redskap"
+      ],
+      "hits": 210
+    },
+    "2.69.5166.288": {
+      "name": "Styrketräning",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Träningsmaskiner och -redskap"
+      ],
+      "hits": 1343
+    },
+    "2.69.5166.290": {
+      "name": "Trappmaskiner",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Träningsmaskiner och -redskap"
+      ],
+      "hits": 107
+    },
+    "2.69.5166.289": {
+      "name": "Träningsutrustning",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Träningsmaskiner och -redskap"
+      ],
+      "hits": 2404
+    },
+    "2.69.7738.259": {
+      "name": "Dykutrustning",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Vattensport"
+      ],
+      "hits": 550
+    },
+    "2.69.7738.260": {
+      "name": "SUP",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Vattensport"
+      ],
+      "hits": 206
+    },
+    "2.69.7738.261": {
+      "name": "Segling",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Vattensport"
+      ],
+      "hits": 485
+    },
+    "2.69.7738.262": {
+      "name": "Surfing",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Vattensport"
+      ],
+      "hits": 288
+    },
+    "2.69.7738.338": {
+      "name": "Vindsurfing",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Vattensport"
+      ],
+      "hits": 145
+    },
+    "2.69.7738.2467": {
+      "name": "Wingfoil",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Vattensport"
+      ],
+      "hits": 67
+    },
+    "2.69.7738.263": {
+      "name": "Övrig vattensportsutrustning",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Vattensport"
+      ],
+      "hits": 892
+    },
+    "2.69.3962.253": {
+      "name": "Alpint",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Vintersport"
+      ],
+      "hits": 2266
+    },
+    "2.69.3962.255": {
+      "name": "Längdskidor",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Vintersport"
+      ],
+      "hits": 699
+    },
+    "2.69.3962.252": {
+      "name": "Snowboard",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Vintersport"
+      ],
+      "hits": 509
+    },
+    "2.69.3962.254": {
+      "name": "Telemark",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Vintersport"
+      ],
+      "hits": 91
+    },
+    "2.69.3962.256": {
+      "name": "Övrig skidutrustning",
+      "path": [
+        "Kategori",
+        "Sport och friluftsliv",
+        "Vintersport"
+      ],
+      "hits": 610
+    },
+    "2.86.7735.113": {
+      "name": "Flygbiljetter",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Biljetter och resor"
+      ],
+      "hits": 51
+    },
+    "2.86.7735.112": {
+      "name": "Paketresor",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Biljetter och resor"
+      ],
+      "hits": 50
+    },
+    "2.86.7735.114": {
+      "name": "Tågbiljetter",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Biljetter och resor"
+      ],
+      "hits": 52
+    },
+    "2.86.5209.512": {
+      "name": "Broschyrer och tidningar",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Böcker och tidningar"
+      ],
+      "hits": 697
+    },
+    "2.86.5209.520": {
+      "name": "Facklitteratur",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Böcker och tidningar"
+      ],
+      "hits": 2908
+    },
+    "2.86.5209.94": {
+      "name": "Kokböcker",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Böcker och tidningar"
+      ],
+      "hits": 678
+    },
+    "2.86.5209.513": {
+      "name": "Kurslitteratur",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Böcker och tidningar"
+      ],
+      "hits": 5200
+    },
+    "2.86.5209.515": {
+      "name": "Serietidningar",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Böcker och tidningar"
+      ],
+      "hits": 1670
+    },
+    "2.86.5209.514": {
+      "name": "Skönlitteratur",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Böcker och tidningar"
+      ],
+      "hits": 4278
+    },
+    "2.86.5209.521": {
+      "name": "Uppslagsverk och lexikon",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Böcker och tidningar"
+      ],
+      "hits": 1120
+    },
+    "2.86.5209.97": {
+      "name": "Övriga böcker",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Böcker och tidningar"
+      ],
+      "hits": 962
+    },
+    "2.86.7734.128": {
+      "name": "Färg och målartillbehör",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Hantverk"
+      ],
+      "hits": 435
+    },
+    "2.86.7734.124": {
+      "name": "Garn",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Hantverk"
+      ],
+      "hits": 379
+    },
+    "2.86.7734.130": {
+      "name": "Keramik",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Hantverk"
+      ],
+      "hits": 574
+    },
+    "2.86.7734.131": {
+      "name": "Pärlor och smyckesstenar",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Hantverk"
+      ],
+      "hits": 330
+    },
+    "2.86.7734.129": {
+      "name": "Scrapbooking",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Hantverk"
+      ],
+      "hits": 187
+    },
+    "2.86.7734.126": {
+      "name": "Sy- och sticktillbehör",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Hantverk"
+      ],
+      "hits": 484
+    },
+    "2.86.7734.123": {
+      "name": "Symaskiner",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Hantverk"
+      ],
+      "hits": 585
+    },
+    "2.86.7734.132": {
+      "name": "Träslöjd",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Hantverk"
+      ],
+      "hits": 1020
+    },
+    "2.86.7734.125": {
+      "name": "Tyg",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Hantverk"
+      ],
+      "hits": 442
+    },
+    "2.86.7734.127": {
+      "name": "Vävstolar",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Hantverk"
+      ],
+      "hits": 229
+    },
+    "2.86.3922.102": {
+      "name": "Blu-ray",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Musik och film"
+      ],
+      "hits": 394
+    },
+    "2.86.3922.98": {
+      "name": "CD",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Musik och film"
+      ],
+      "hits": 1098
+    },
+    "2.86.3922.100": {
+      "name": "DVD",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Musik och film"
+      ],
+      "hits": 1868
+    },
+    "2.86.3922.402": {
+      "name": "Kassettband",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Musik och film"
+      ],
+      "hits": 224
+    },
+    "2.86.3922.101": {
+      "name": "VHS",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Musik och film"
+      ],
+      "hits": 513
+    },
+    "2.86.3922.99": {
+      "name": "Vinyl",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Musik och film"
+      ],
+      "hits": 2180
+    },
+    "2.86.92.296": {
+      "name": "Basgitarrer",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Musikinstrument"
+      ],
+      "hits": 601
+    },
+    "2.86.92.104": {
+      "name": "Bleckblåsinstrument",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Musikinstrument"
+      ],
+      "hits": 167
+    },
+    "2.86.92.328": {
+      "name": "Dragspel",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Musikinstrument"
+      ],
+      "hits": 520
+    },
+    "2.86.92.295": {
+      "name": "Gitarrer",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Musikinstrument"
+      ],
+      "hits": 5176
+    },
+    "2.86.92.110": {
+      "name": "Keyboards och synthar",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Musikinstrument"
+      ],
+      "hits": 1451
+    },
+    "2.86.92.108": {
+      "name": "Ljudutrustning",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Musikinstrument"
+      ],
+      "hits": 3780
+    },
+    "2.86.92.337": {
+      "name": "Orgel",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Musikinstrument"
+      ],
+      "hits": 113
+    },
+    "2.86.92.109": {
+      "name": "Pianon och flyglar",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Musikinstrument"
+      ],
+      "hits": 647
+    },
+    "2.86.92.107": {
+      "name": "Slagverk och trummor",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Musikinstrument"
+      ],
+      "hits": 1150
+    },
+    "2.86.92.105": {
+      "name": "Stråkinstrument",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Musikinstrument"
+      ],
+      "hits": 268
+    },
+    "2.86.92.103": {
+      "name": "Träblåsinstrument",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Musikinstrument"
+      ],
+      "hits": 254
+    },
+    "2.86.92.111": {
+      "name": "Övriga instrument",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Musikinstrument"
+      ],
+      "hits": 199
+    },
+    "2.86.92.106": {
+      "name": "Övriga stränginstrument",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Musikinstrument"
+      ],
+      "hits": 108
+    },
+    "2.86.7733.401": {
+      "name": "Drönare",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Radiostyrda enheter"
+      ],
+      "hits": 536
+    },
+    "2.86.7733.327": {
+      "name": "Modelljärnväg",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Radiostyrda enheter"
+      ],
+      "hits": 221
+    },
+    "2.86.7733.135": {
+      "name": "RC-flygplan",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Radiostyrda enheter"
+      ],
+      "hits": 111
+    },
+    "2.86.7733.136": {
+      "name": "RC-helikoptrar",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Radiostyrda enheter"
+      ],
+      "hits": 53
+    },
+    "2.86.7733.133": {
+      "name": "Radiostyrda bilar",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Radiostyrda enheter"
+      ],
+      "hits": 485
+    },
+    "2.86.7733.134": {
+      "name": "Radiostyrda båtar",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Radiostyrda enheter"
+      ],
+      "hits": 62
+    },
+    "2.86.285.137": {
+      "name": "Frimärken",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Samlarobjekt"
+      ],
+      "hits": 363
+    },
+    "2.86.285.399": {
+      "name": "Leksaker",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Samlarobjekt"
+      ],
+      "hits": 2846
+    },
+    "2.86.285.397": {
+      "name": "Militära föremål",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Samlarobjekt"
+      ],
+      "hits": 576
+    },
+    "2.86.285.138": {
+      "name": "Mynt och sedlar",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Samlarobjekt"
+      ],
+      "hits": 867
+    },
+    "2.86.285.139": {
+      "name": "Pins",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Samlarobjekt"
+      ],
+      "hits": 193
+    },
+    "2.86.285.400": {
+      "name": "Samlarfigurer",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Samlarobjekt"
+      ],
+      "hits": 1856
+    },
+    "2.86.285.396": {
+      "name": "Samlarkort",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Samlarobjekt"
+      ],
+      "hits": 4087
+    },
+    "2.86.285.398": {
+      "name": "Skyltar och affischer",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Samlarobjekt"
+      ],
+      "hits": 917
+    },
+    "2.86.285.140": {
+      "name": "Vykort",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Samlarobjekt"
+      ],
+      "hits": 181
+    },
+    "2.86.285.141": {
+      "name": "Övriga samlarobjekt",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Samlarobjekt"
+      ],
+      "hits": 1899
+    },
+    "2.86.5203.119": {
+      "name": "Brädspel",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Sällskapsspel och pussel"
+      ],
+      "hits": 947
+    },
+    "2.86.5203.329": {
+      "name": "Pussel",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Sällskapsspel och pussel"
+      ],
+      "hits": 1206
+    },
+    "2.86.5203.120": {
+      "name": "Sällskapsspel",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Sällskapsspel och pussel"
+      ],
+      "hits": 1113
+    },
+    "2.86.5203.121": {
+      "name": "Utomhusspel",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Sällskapsspel och pussel"
+      ],
+      "hits": 132
+    },
+    "2.86.5203.122": {
+      "name": "Övriga spel",
+      "path": [
+        "Kategori",
+        "Underhållning och hobby",
+        "Sällskapsspel och pussel"
+      ],
+      "hits": 114
+    }
+  }
+}

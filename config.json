@@ -1,0 +1,12 @@
+{
+  "product_category": "2.93.3217.39",
+  "query": "iphone",
+  "must_have": "iphone",
+  "location_id": "1.300014.311480",
+  "poll_seconds": 30,
+  "pages": 1,
+  "details_per_poll": 10,
+  "request_delay_seconds": 2,
+  "detail_refresh_hours": 24,
+  "data_dir": "data"
+}
